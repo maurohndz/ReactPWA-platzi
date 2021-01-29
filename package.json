@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "16.4.1",
     "react-app-rewire-workbox": "2.0.1",
-    "react-app-rewired": "1.5.2",
+    "react-app-rewired": "1.6.2",
     "react-dom": "16.4.1",
     "react-ga": "2.5.3",
     "react-helmet": "5.2.0",
